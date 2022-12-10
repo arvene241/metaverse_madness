@@ -35,7 +35,7 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <a href='#'>
+          <a href='#home'>
             <h4 className="font-extrabold text-[24px] text-white">
               METAVERUS
             </h4>
